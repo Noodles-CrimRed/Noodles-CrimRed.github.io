@@ -97,10 +97,6 @@ Pokemon Crimson Red Sheet
 docs.google.com docs.google.com
 *Levels may vary for Trainers*
 
-
-Screenshots:
-
-[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3[PokeCommunity.com] Pokemon Crimson Red 2.1.3
 Credits
 The Full Game which includes all the Trainers, Map Changes, Pokemon Changes and all the Changes that are not in the Base FireRed are made by Noodle (me :D)
 using the Complete Fire Red Upgrade by @ghoulslash
