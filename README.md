@@ -220,15 +220,26 @@ discord.gg
 IMPORTANT NOTE, AFTER DEFEATING BLAINE THERE IS A SOFT LOCK, YOU NEED TO USE WALK THROUGH WALLS CHEAT IF YOU'RE PLAYING ON THE MOST POPULAR VERSION 2.0 AND LOWER
 
 Download Milestones (Across All platforms and all versions)
+
 100 Downloads - Small New Update
+
 250 Downloads - Extra Magma Event
+
 500 Downloads - New Docs
+
 750 Downloads - New Lore
+
 1000 Downloads - Expanded Post Game
+
 1500 Downloads - 10 New Routes
+
 2000 Downloads - All Legendaries Available
+
 2500 Downloads - New Backgrounds
+
 3000 Downloads - 100s of Pokemon Type Changes / Stat Changes / Moveset Changes
+
 5000 Downloads - New Huge Magma vs Rocket Event (Post Game and Pre Elite four Events)
+
 10000 Downloads - Massive ARG Update (Extra 5-10 Hours Of Post Game Gameplay)
-Attachments
+
